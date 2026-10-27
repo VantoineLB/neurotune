@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sessions/
+neurotune_config.json
+*.wav
+*.asd
+.venv/

@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+pylsl>=1.16
+sounddevice>=0.4
+soundfile>=0.12
+matplotlib>=3.7
+python-osc>=1.8
+pygame>=2.5
